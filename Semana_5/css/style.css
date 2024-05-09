@@ -1,0 +1,11 @@
+.ingrediente_faltante {
+    color:rgb(42, 116, 165);
+}
+
+#ingrediente_querido{
+    color: red;
+}
+
+li{
+    color: rgb(130, 255, 80);
+}
