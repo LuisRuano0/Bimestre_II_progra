@@ -1,0 +1,40 @@
+/* estilos globales*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* estilos para el cuerpo de la pagina */
+body{
+    font-family: 'Montserrat';
+}
+
+/* Modificar el contenido principal */
+.contenedor {
+    padding: 60px 0;
+    width: 90%;
+    margin: auto;
+    max-width: 1000px;
+}  
+/* titulo principal */
+.titulo {
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+nav {
+    text-align: right;
+    padding: 30px 50px 0 0;
+
+}
+
+nav > a {
+    color: aliceblue;
+    font-weight: 300;
+    text-decoration: none;
+    margin: 10px;
+}
